@@ -1,0 +1,5 @@
+.Player{
+  flex-grow: 1;
+  padding: 10px;
+  border-left: black solid 1px;
+}
