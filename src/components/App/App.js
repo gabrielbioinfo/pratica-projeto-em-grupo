@@ -1,4 +1,5 @@
 import './App.css';
+import SideMenu from '../SideMenu/SideMenu';
 
 function App() {
   
@@ -8,7 +9,7 @@ function App() {
         <h1>VinteFlix</h1>
       </header>
       <main className="content-wrapper">
-        ???
+        <SideMenu />
       </main>
     </div>
   );
