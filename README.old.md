@@ -1,1 +1,0 @@
-# pratica-projeto-em-grupo
